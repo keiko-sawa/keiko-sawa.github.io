@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.zensorium.zensoriumstreamv2",
+    "sha256_cert_fingerprints":
+    ["46:54:BA:08:C7:F7:91:D8:17:66:17:9C:41:F8:64:B4:2C:3A:FA:18:C0:A6:12:46:14:F6:33:C5:F6:15:9B:FA"]
+  }
+}]
